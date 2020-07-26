@@ -1,0 +1,33 @@
+# Challenge 2
+
+You start to notice things really differently because the mist had started to fade away. 
+
+## Instructions
+
+### PART I: DeMystifying Miss May
+1. Create a function called mistMay that whenever the mist variable is false changes the missMay's <img> src attribute to the medusa.png image and if the mist variable is true changes the <img> src attribute to miss-may.png
+2. add an on click event listener to Miss May's img that calls the mistMay function
+
+### PART II: DeMystifying Delivery Man
+3. Create a function called mistDelivery that whenever the mist variable is false changes the delivery man's <img> src attribute to the faun.png image and if the mist variable is true changes the <img> src attribute to delivery-man.png
+4. add an on click event listener to the Delivery Man's img that calls the mistDelivery function
+
+### PART III: DeMystifying Mr. John
+5. Create a function called mistJohn that whenever the mist variable is false changes the Mr. John's <img> src attribute to the centaur.png image and if the mist variable is true changes the <img> src attribute to mr-john.png
+6. add an on click event listener to the Mr. John's img that calls the mistJohn function
+
+### PART IV: DeMystifying the Dog
+7. Create a function called mistDog that whenever the mist variable is false changes the Dog's <img> src attribute to the griffin.png image and if the mist variable is true changes the <img> src attribute to dog.png
+8. add an on click event listener to the dog's img that calls the mistDog function
+
+### PART V: Working Demystify button
+9. add an onclick event listener to the #mist-btn to do the following
+    - if the mist variable is false set it to true AND change the textContent of the #mist-btn to Mystify
+    - if the mist variable is true set it to false AND change the textContent of the #mist-btn to DeMystify
+
+### PART VI: Find the Answer
+10. Remove the mist from each person and animal img and then click the complete button!
+
+### PART VII: Optional Challenge
+11. Remove the hidden class from the p tag containing the id #bubble
+12. Add on to each function created in previous steps with the code that changes the p tag's textContent that has the id "bubble" to the text found in mistMessage variable if the mist variable is true or noMistMessage variable if the mist variable is false

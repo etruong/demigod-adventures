@@ -1,0 +1,23 @@
+# Challenge 3
+
+You'll be venturing on a long quest demigod! So you need to prepare supplies for your long trip. Follow the instructions below to start.
+
+## Instructions
+
+### PART I: Place Items in backpack
+1. Attach 3 <img> tags with the src water.jpg and class .item and .water to the #backpack <div>
+2. Attach 2 <img> tags with the src chip.png and class .item and .chip to the #backpack
+3. Attach 1 pen <img> tag with the src pen.png and class .item and id #pen-sword to the #backpack
+
+(Hint: use document.createElement("img"))
+
+### PART II: Pen Sword
+4. Whenever you click on the pen, it should change into a sword! Add an event listener that changes the src of the #pen-sword whenever a user clicks on it
+
+### PART III: Use items button
+5. Using document.querySelectorAll(".item") and what you know about arrays and loops add an event listener to each DOM element with the class item that removes itself from the #backpack or DOM
+
+### PART IV: Checking your answer!
+6. Refresh the page
+7. Change the pen into a sword by clicking on it
+8. Click the completed button and it should show your answer

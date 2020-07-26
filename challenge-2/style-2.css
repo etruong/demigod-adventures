@@ -1,0 +1,30 @@
+#mist-btn {
+    display: block;
+}
+
+.person {
+    max-height: 200px;
+    margin: 20px;
+}
+
+.animal {
+    max-width: 100px;
+}
+
+p {
+    width: 60%;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hidden {
+    display: none;
+}
+

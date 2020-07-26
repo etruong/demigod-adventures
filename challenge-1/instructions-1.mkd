@@ -1,0 +1,16 @@
+# Challenge 1: Mythology Report
+
+You have a report due in 24 hours! You'll need to create a webpage reporting about any Greek God (your choice), but you'll have specific requirements to complete this report.
+
+**Note you'll be doing all of this in the challenge-1.html (in the <main> tag) and style-1.css files**
+
+## Requirements:
+- Include a <h1> tag that is the name of the Greek God you've chosen
+- Include a <img> tag that is a picture of the Greek God you've chosen
+- Create a <ul> with at least 5 <li> tags that describes a few facts about the Greek God
+- Use 2 <p> tags to describe why you chose that Greek God 
+
+- Style your report in the style-1.css file
+    - Create 2 classes and apply it to at least 2 tags
+    - Create 1 id and apply it to 1 tag
+

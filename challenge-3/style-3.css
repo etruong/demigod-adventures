@@ -1,0 +1,15 @@
+#backpack {
+    border: 2px solid black;
+    margin: 20px;
+    height: 300px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item {
+    max-width: 100px;
+}
