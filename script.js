@@ -95,7 +95,7 @@ if (complete3) {
         }
 
         let chips = document.querySelectorAll(".chip");
-        if (!chip || chips.length < 2) {
+        if (!chips || chips.length < 2) {
             alert("Did you attach the 2 chips with the class chip to the backpack?");
             return
         }
