@@ -13,5 +13,3 @@ let noMistMessage = {
 }
 
 let mist = false;
-
-
